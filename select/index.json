@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "LOUDER",
+  "base_artist": "Roselia",
+  "createdAt": "2025-12-23T06:11:42.233952Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Keep It Goin' Louder",
+      "artist": "Major Lazer feat. Nina Sky & Ricky Blaze",
+      "has_synced": false,
+      "path": "select/01_Keep_It_Goin'_Louder_Major_Lazer_feat._Nina_Sky_&_Ricky_Blaze.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Actions Speak Louder Than Words",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/02_Actions_Speak_Louder_Than_Words_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Louder Than Hell",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/03_Louder_Than_Hell_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Louder - Live At Koko",
+      "artist": "DJ Fresh feat. Sian Evans",
+      "has_synced": false,
+      "path": "select/04_Louder_-_Live_At_Koko_DJ_Fresh_feat._Sian_Evans.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Absence Speaks Louder Than Words",
+      "artist": "Fleur East",
+      "has_synced": true,
+      "path": "select/05_Absence_Speaks_Louder_Than_Words_Fleur_East.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Wish This Song Was Louder (demo)",
+      "artist": "Electric Six",
+      "has_synced": false,
+      "path": "select/06_I_Wish_This_Song_Was_Louder_(demo)_Electric_Six.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Wish This Song Was Louder",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/07_I_Wish_This_Song_Was_Louder_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Wish This Sound Was Louder",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/08_I_Wish_This_Sound_Was_Louder_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ell Ess Two (aka Loretta's Scars II aka Elevate Me Later) (Louder Than You Think Sessions)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/09_Ell_Ess_Two_(aka_Loretta's_Scars_II_aka_Elevate_Me_Later)_(Louder_Than_You_Think_Pavement.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Louder Than A Bomb",
+      "artist": "Public Enemy",
+      "has_synced": true,
+      "path": "select/10_Louder_Than_A_Bomb_Public_Enemy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Loud Places (Herbert's Louder Dub)",
+      "artist": "Jamie xx feat. Romy",
+      "has_synced": false,
+      "path": "select/11_Loud_Places_(Herbert's_Louder_Dub)_Jamie_xx_feat._Romy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Loud Places (feat. Romy) (Herbert's Louder Dub)",
+      "artist": "Jamie xx",
+      "has_synced": false,
+      "path": "select/12_Loud_Places_(feat._Romy)_(Herbert's_Louder_Dub)_Jamie_xx.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Is Louder (Bonus Track)",
+      "artist": "Karmin",
+      "has_synced": true,
+      "path": "select/13_Love_Is_Louder_(Bonus_Track)_Karmin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Turn The Music Louder (Rumble)",
+      "artist": "KDA feat. Katy B",
+      "has_synced": false,
+      "path": "select/14_Turn_The_Music_Louder_(Rumble)_KDA_feat._Katy_B.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Turn the Music Louder (Rumble) (feat. Katy B)",
+      "artist": "KDA",
+      "has_synced": false,
+      "path": "select/15_Turn_the_Music_Louder_(Rumble)_(feat._Katy_B)_KDA.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shout Louder",
+      "artist": "Exilia",
+      "has_synced": true,
+      "path": "select/16_Shout_Louder_Exilia.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "One Louder Solex",
+      "artist": "Solex",
+      "has_synced": true,
+      "path": "select/17_One_Louder_Solex_Solex.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Louder Than a Bomb",
+      "artist": "Tiga",
+      "has_synced": true,
+      "path": "select/18_Louder_Than_a_Bomb_Tiga.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Side 4, Pt. 4: Louder Than Words",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/19_Side_4,_Pt._4__Louder_Than_Words_Pink_Floyd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOUDER",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/pl_01_LOUDER_Roselia.txt"
+    }
+  ]
+}
