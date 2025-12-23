@@ -1,0 +1,71 @@
+# Roselia – LOUDER
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+裏切りは暗いままfall down
+崩れゆく世界は
+心引き剥がして熱を失った
+未だに弱さ滲むon mind
+未熟さを抱えて
+歌う資格なんてないと背を向けて
+色褪せた瞳 火をつけた
+あなたの言葉
+Louder…!
+You're my everything
+【You're my everything】
+輝き溢れゆくあなたの音は
+私の音でtry to…
+伝えたいの
+I'm movin'on with you
+【movin'on with you】
+届けたいよ全て
+あなたがいたから私がいたんだよ
+No more need to cry
+きっと
+脆さは砕けばいいso long
+刹那に幼さを連れて
+叶えてみせるから
+I don't look back
+選ぶのは必然でall time
+ひりついた素肌も見せて？
+恥じる事はないの
+いつまでも
+ああ…迷いなんてないわ
+臆さないよ
+言葉の一つも
+To listen…
+I will never die
+【I will never die】
+生まれ落ちた場所で
+運命を遂げるまで
+このままずっと
+keep on running
+Nothing's gonna change my world
+【gonna change my world】
+静寂には so good-bye
+もっと激しく揺らせ、起こせ波風
+初めての声で
+Only one…
+歌をほどけば
+あの頃の私がいて
+あの頃のあなたが笑うよ
+I renew one's hopes
+ただ
+強く【強く】
+熱く【熱く】
+届け【届け】
+Sing for…
+Louder…!
+You're my everything!
+輝き溢れゆくあなたの音は
+私の音でtry to…
+伝えたいの
+I'm movin'on with you
+【movin'on with you】
+届けたいよ全て
+あなたがいたから私がいたんだよ
+No more need to cry
+きっと
+Feel alive…
+```
